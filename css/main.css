@@ -1,0 +1,122 @@
+body {
+  background-color: lightblue;
+  padding: 24px;
+}
+
+header, main, footer {
+  width: 98%;
+  margin: 0 auto;
+  position: relative; 
+  text-align: left;
+  background-color: white;
+  padding-bottom: 20px;
+}
+
+header {
+  height: 40px;
+  background-color: blue;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+
+main  {
+  min-height: 400px;
+}
+
+footer {
+  height: 40px;
+  background-color: purple;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+table {
+  margin: 0 auto;
+  border-spacing: 12px;
+  border-collapse: separate;
+}
+
+img {
+  border-radius: 16px;
+  width: 200px;
+  height: 100px;
+}
+
+td, th {
+  border-radius: 16px;	
+  padding: 20px;
+  width: 25%;
+}
+
+th {
+	border: 1px solid black;
+}
+
+#td01 {
+  background-color: RoyalBlue;
+  color: white;
+}
+
+#td02 {
+
+  background-color: green;
+  color: white;
+}
+
+#td03 {
+  background-color: Purple;
+  color: white;
+}
+
+#td04 {
+  background-color: DarkRed;
+  color: white;
+}
+
+#td05 {
+  background-color: DeepSkyBlue;
+}
+
+#td06 {
+  background-color: SeaGreen;
+}
+
+#td07 {
+  background-color: DarkViolet;
+}
+
+#td08 {
+  background-color: Crimson;
+}
+
+#td09 {
+  background-color: lightSkyBlue;
+}
+
+#td10 {
+  background-color: MediumAquamarine;
+}
+
+#td11 {
+  background-color: Magenta;
+}
+
+#td12 {
+  background-color: LightCoral;
+}
+
+#td13 {
+  background-color: lightSteelBlue;
+}
+
+#td14 {
+  background-color: GreenYellow;
+}
+
+#td15 {
+  background-color: Plum;
+}
+
+#td16 {
+  background-color: Orange;
+}
